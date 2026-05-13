@@ -8,13 +8,13 @@ I build clean, useful software and enjoy solving real-world problems with code.
 - **Continuous Shipping:** Learning daily and maintaining a consistent development rhythm.
 
 ## 🧰 Tech I work with
-### Top Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidsgnl&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- **Security & Ops:** Linux (Void/Ubuntu), Docker, Nmap, SOC Analysis tools.
-- **Automation:** GitHub Actions, Shell Scripting (Zsh/Bash), Git.
-- **Interests:** Blue Team Ops, Modular Web Architecture, and local AI tool development.
-
+*   **Security & Ops:** Linux (Void/Ubuntu), Docker, Nmap, SOC Analysis tools.
+*   **Automation:** GitHub Actions, Shell Scripting (Zsh/Bash), Git.
+*   **Interests:** Blue Team Ops, Modular Web Architecture, and local AI tool development.
+  
 ## 🤝 Open to
 - Collaboration on interesting open-source work.
 - Feedback, code reviews, and technical discussions.
